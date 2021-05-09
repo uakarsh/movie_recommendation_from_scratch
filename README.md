@@ -24,4 +24,4 @@ NearestNeighbour models takes in a number K as parameter which dentoes the no of
 
 SVD has a `predict_rating` function too using the `userId` and `movieId` as parameters. It also has a `cross_validation_error` function which finds out the RMSE error on 5-fold cross validtion set.
 
-Detailed report for this project can be read [here](https://github.com/uakarsh/movie_recommendation_from_scratch/blob/main/report.pdf)
+Detailed report for this project can be read [here](https://github.com/uakarsh/movie_recommendation_from_scratch/blob/main/movie_recommendation_from_scratch-main/movie_recommendation_from_scratch-main/report.pdf)
